@@ -54,7 +54,7 @@ function App() {
       <footer id="contact">
         <p className="eyebrow">Have a project in mind?</p>
         <h2>Let’s make it<br /><em>matter.</em></h2>
-        <a className="email" href="mailto:hello@example.com">hello@example.com <span>↗</span></a>
+        <a className="email" href="idharshan.info@gmail.com">idharshan.info@gmail.com <span>↗</span></a>
         <div className="footer-bottom"><p>© 2026 Northstar Studio</p><p>Built with React</p><a href="#top">Back to top ↑</a></div>
       </footer>
     </main>
