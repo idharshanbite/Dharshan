@@ -14,10 +14,11 @@ function App() {
       <nav className="nav" aria-label="Main navigation">
         <a className="brand" href="#top" aria-label="Bewraped"><span>✦</span>BEWRAPED.LK</a>
         <div className="nav-links">
-          <a href="#work">Work</a>
-          <a href="#services">Services</a>
-          <a href="#contact">Contact</a>
-        </div>
+  <a href="#about">About Us</a>
+  <a href="#speciality">Speciality</a>
+  <a href="#menu">Menu</a>
+  <a href="#contact">Contact Us</a>
+</div>
         <a className="nav-cta" href="#contact">LET'S COOK<span>↗</span></a>
       </nav>
 
