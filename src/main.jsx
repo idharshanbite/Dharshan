@@ -5,7 +5,7 @@ import './styles.css'
 const services = [
   ['01', 'Strategy', 'A clear plan for a website that supports your goals.'],
   ['02', 'Design', 'Distinctive visual systems that feel intuitive to use.'],
-  ['03', 'Build', 'Fast, accessible React sites that work on every screen.'],
+  ['03', 'Cook', 'Fast, accessible React sites that work on every screen.'],
 ]
 
 function App() {
