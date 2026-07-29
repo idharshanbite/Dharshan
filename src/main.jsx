@@ -55,7 +55,7 @@ function App() {
         <p className="eyebrow">Have a project in mind?</p>
         <h2>Let’s make it<br /><em>matter.</em></h2>
         <a className="email" href="mailto:idharshan.info@gmail.com">idharshan.info@gmail.com <span>↗</span></a>
-        <div className="footer-bottom"><p>© 2026 Northstar Studio</p><p>Built with React</p><a href="#top">Back to top ↑</a></div>
+        <div className="footer-bottom"><p>© 2026 BEWRAPED.lk</p><p></p><a href="#top">Back to top ↑</a></div>
       </footer>
     </main>
   )
