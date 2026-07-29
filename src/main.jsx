@@ -12,7 +12,7 @@ function App() {
   return (
     <main>
       <nav className="nav" aria-label="Main navigation">
-        <a className="brand" href="#top" aria-label="Bewraped.lk"><span>✦</span> NORTHSTAR</a>
+        <a className="brand" href="#top" aria-label="Bewraped"><span>✦</span> Bewraped.lk</a>
         <div className="nav-links">
           <a href="#work">Work</a>
           <a href="#services">Services</a>
@@ -22,7 +22,7 @@ function App() {
       </nav>
 
       <section id="top" className="hero">
-        <p className="eyebrow">Independent digital studio · Est. 2026</p>
+        <p className="eyebrow">Original waffles on town · Est. 2026</p>
         <h1>Websites with<br /><em>a little gravity.</em></h1>
         <div className="hero-bottom">
           <p>We turn ambitious ideas into elegant, memorable digital experiences.</p>
