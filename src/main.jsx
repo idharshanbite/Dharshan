@@ -21,7 +21,79 @@ function App() {
 </div>
         <a className="nav-cta" href="#contact">LET'S COOK<span>↗</span></a>
       </nav>
+<nav className="nav">
 
+  <a className="brand" href="#top">
+
+    <span>✦</span>BEWRAPED.LK
+
+  </a>
+
+  <div className="nav-links">
+
+    <a href="#about">About Us</a>
+
+    <a href="#speciality">Speciality</a>
+
+    <a href="#menu">Menu</a>
+
+    <a href="#contact">Contact Us</a>
+
+  </div>
+
+  <button
+
+    className="menu-btn"
+
+    onClick={() => setMenuOpen(true)}
+
+  >
+
+    ☰
+
+  </button>
+
+</nav>
+
+<div className={`mobile-menu ${menuOpen ? "open" : ""}`}>
+
+  <button
+
+    className="close-btn"
+
+    onClick={() => setMenuOpen(false)}
+
+  >
+
+    ✕
+
+  </button>
+
+  <a href="#about" onClick={() => setMenuOpen(false)}>
+
+    About Us
+
+  </a>
+
+  <a href="#speciality" onClick={() => setMenuOpen(false)}>
+
+    Speciality
+
+  </a>
+
+  <a href="#menu" onClick={() => setMenuOpen(false)}>
+
+    Menu
+
+  </a>
+
+  <a href="#contact" onClick={() => setMenuOpen(false)}>
+
+    Contact Us
+
+  </a>
+
+</div>
       <section id="top" className="hero">
         <p className="eyebrow">Original waffles on town · Est. 2026</p>
         <h1>Websites with<br /><em>a little gravity.</em></h1>
