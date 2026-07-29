@@ -12,13 +12,13 @@ function App() {
   return (
     <main>
       <nav className="nav" aria-label="Main navigation">
-        <a className="brand" href="#top" aria-label="Northstar home"><span>✦</span> NORTHSTAR</a>
+        <a className="brand" href="#top" aria-label="Bewraped.lk"><span>✦</span> NORTHSTAR</a>
         <div className="nav-links">
           <a href="#work">Work</a>
           <a href="#services">Services</a>
           <a href="#contact">Contact</a>
         </div>
-        <a className="nav-cta" href="#contact">Let’s talk <span>↗</span></a>
+        <a className="nav-cta" href="#contact">Got a question? <span>↗</span></a>
       </nav>
 
       <section id="top" className="hero">
